@@ -1,54 +1,61 @@
-id: ede90aa0e9dc444081bc546a4c3e467b
+id: c2851e3d5513488c8516281493817377
 annotation_type: Pagination
 revision: '00001'
 annotations:
-  c290ce278c8a4e868107b981f5215084:
+  e65df68f3094421e948573da4f442ddc:
     imgnum: 268
     reference: ''
     span:
       start: 0
       end: 774
-  12b91ab641424abd91ed6a7068e970cd:
+  bfe88c6009e54abe8da40e8be7adcfef:
     imgnum: 269
     reference: ''
     span:
       start: 777
       end: 2161
-  5bcd056d6d944880950d05c5879f3135:
+  ffb3740716d545799928ef4696e4b37e:
     imgnum: 270
     reference: ''
     span:
       start: 2164
       end: 3620
-  cc9f8da817484c39a06aa59a36f73d7c:
+  520807a85f2e4bab9ef1c26b4f1c1da9:
     imgnum: 271
     reference: ''
     span:
       start: 3623
       end: 4951
-  a65373fd6b614587ace6dbacaa2739ae:
+  d3ba06a86c324f988f4e42f76d11f675:
     imgnum: 272
     reference: ''
     span:
       start: 4954
       end: 6255
-  c2c33178a3b244028c93bc45d567a976:
+  0e68df1b305040569f2590709950ea45:
     imgnum: 273
     reference: ''
     span:
       start: 6258
       end: 7595
-  bbe8cf4a5c5f4c55b75d463f97e37e3e:
+  0142ed614d904f2b98da60454d656e7f:
     imgnum: 274
     reference: ''
     span:
       start: 7598
-      end: 9996
+      end: 9022
+  a9c03af5fb704aab9603ba8c12b5a842:
+    imgnum: 275
+    reference: ''
+    span:
+      start: 9025
+      end: 9989
 local_ids:
-  c290ce278c8a4e868107b981f5215084: 200000
-  12b91ab641424abd91ed6a7068e970cd: 200001
-  5bcd056d6d944880950d05c5879f3135: 200002
-  cc9f8da817484c39a06aa59a36f73d7c: 200003
-  a65373fd6b614587ace6dbacaa2739ae: 200004
-  c2c33178a3b244028c93bc45d567a976: 200005
-  bbe8cf4a5c5f4c55b75d463f97e37e3e: 200006
+  e65df68f3094421e948573da4f442ddc: 200000
+  bfe88c6009e54abe8da40e8be7adcfef: 200001
+  ffb3740716d545799928ef4696e4b37e: 200002
+  520807a85f2e4bab9ef1c26b4f1c1da9: 200003
+  d3ba06a86c324f988f4e42f76d11f675: 200004
+  0e68df1b305040569f2590709950ea45: 200005
+  0142ed614d904f2b98da60454d656e7f: 200006
+  a9c03af5fb704aab9603ba8c12b5a842: 200007
